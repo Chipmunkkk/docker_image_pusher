@@ -3,3 +3,6 @@ postgres:17
 tensorchord/pgvecto-rs:pg16-v0.3.0
 miniflux/miniflux
 ghcr.io/librespeed/speedtest
+mlabbe/iperf3
+filebrowser/filebrowser
+ghcr.io/immich-app/immich-server:release
