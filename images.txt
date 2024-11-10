@@ -6,3 +6,4 @@ ghcr.io/librespeed/speedtest
 mlabbe/iperf3
 filebrowser/filebrowser
 ghcr.io/immich-app/immich-server:release
+ghcr.io/immich-app/immich-machine-learning:release
