@@ -1,1 +1,1 @@
-ghcr.io/immich-app/postgres:16-vectorchord0.5.3-pgvector0.8.1
+ghcr.io/immich-app/postgres:16-vectorchord0.5.3
