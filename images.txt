@@ -1,1 +1,1 @@
-ghcr.io/immich-app/postgres:16-vectorchord0.5.3
+jxxghp/moviepilot-v2:latest
